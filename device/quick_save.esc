@@ -1,0 +1,16 @@
+:load
+
+cut_scene telon fade_out
+
+## Global flags
+
+set_global introduced true
+
+## Objects
+
+
+## Player
+
+change_scene res://scenes/intro-game/scene.tscn
+
+cut_scene telon fade_in
